@@ -8,7 +8,7 @@ I am Ankit Bhatia a CSE Student from Ujjain, India passionate Software Developer
 - 🔭 I’m currently working on Web Developement Technologies and Frameworks.
 - 🌱 I’m currently learning Machine Learning and Deep Learning .
 - 💬 Ask me about Trending Tech , Web Development Technologies , Gaming , Best Sci-Fi Shows to Watch .
-- 😄 Pronouns: He/Him ...
+- 😄 Pronouns: He/Him .
 - 🎮 Games I played recently: FIFA 21 , Far Cry 4 , Rocket League . 
 
 ### ⚡ Fun fact: <br/> 
@@ -27,12 +27,20 @@ I am Ankit Bhatia a CSE Student from Ujjain, India passionate Software Developer
 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137214-69043380-6190-11eb-98cc-85cb520ac7c4.png" width="40"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137223-6b668d80-6190-11eb-9df9-92e4c198898f.png" width="40"></code> 
-<code><img src="https://user-images.githubusercontent.com/60085587/106137219-6acdf700-6190-11eb-9638-9da71ee972e9.png" width="40"></code> <code><img src="https://user-images.githubusercontent.com/60085587/106137232-6e617e00-6190-11eb-8c17-e48d0fd2cfae.png" width="40"></code> 
-<code><img src="https://user-images.githubusercontent.com/60085587/106137226-6c97ba80-6190-11eb-8136-81c77f5ac8bb.png" width="40"></code> <code><img src="https://user-images.githubusercontent.com/60085587/106137229-6d305100-6190-11eb-8c74-3d9880e67a9d.png" width="40"></code> 
-<code><img src="https://user-images.githubusercontent.com/60085587/106137217-699cca00-6190-11eb-9c24-68e76ccb9376.png" width="40"></code> <code><img src="https://user-images.githubusercontent.com/60085587/106137225-6bff2400-6190-11eb-82ad-995de87a749b.png" width="40"></code> 
-<code><img src="https://user-images.githubusercontent.com/60085587/106137230-6dc8e780-6190-11eb-96a6-e8b8a5d71d79.png" width="40"></code> <code><img src="https://user-images.githubusercontent.com/60085587/106137227-6c97ba80-6190-11eb-97c3-2c3b991b36df.png" width="40"></code> 
-<code><img src="https://user-images.githubusercontent.com/60085587/106137220-6acdf700-6190-11eb-8786-47f53c73502a.png" width="40"></code> <code><img src="https://user-images.githubusercontent.com/60085587/106137218-6a356080-6190-11eb-9faa-e6d1d362235f.png" width="40"></code> 
-<code><img src="https://user-images.githubusercontent.com/60085587/106137222-6b668d80-6190-11eb-9a8e-afb462609d39.png" width="40"></code> <code><img src="https://user-images.githubusercontent.com/60085587/106137236-6efa1480-6190-11eb-89a0-e0e18efc6ac1.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137219-6acdf700-6190-11eb-9638-9da71ee972e9.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137232-6e617e00-6190-11eb-8c17-e48d0fd2cfae.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137226-6c97ba80-6190-11eb-8136-81c77f5ac8bb.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137229-6d305100-6190-11eb-8c74-3d9880e67a9d.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137217-699cca00-6190-11eb-9c24-68e76ccb9376.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137225-6bff2400-6190-11eb-82ad-995de87a749b.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137230-6dc8e780-6190-11eb-96a6-e8b8a5d71d79.png" width="40"></code>
+
+
+<code><img src="https://user-images.githubusercontent.com/60085587/106137227-6c97ba80-6190-11eb-97c3-2c3b991b36df.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137220-6acdf700-6190-11eb-8786-47f53c73502a.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137218-6a356080-6190-11eb-9faa-e6d1d362235f.png" width="40"></code> 
+<code><img src="https://user-images.githubusercontent.com/60085587/106137222-6b668d80-6190-11eb-9a8e-afb462609d39.png" width="40"></code>
+<code><img src="https://user-images.githubusercontent.com/60085587/106137236-6efa1480-6190-11eb-89a0-e0e18efc6ac1.png" width="40"></code> 
 <code><img height="40" src="https://img.icons8.com/color/48/000000/console.png" title="Bash Shell"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106141711-863c0080-6196-11eb-8ace-b4de3ab8a88e.png" width="40"></code>
 <code><img src="https://user-images.githubusercontent.com/60085587/106145469-9a363100-619b-11eb-8e25-979f75134af8.png" width="40"></code>
