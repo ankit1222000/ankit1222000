@@ -60,7 +60,7 @@ I am Ankit Bhatia a CSE Student from Ujjain, India passionate Software Developer
 
 <br/>
 
-### ⚡ Github  Most Used Languages
+### ⚡ Github Repo Most Used Languages
 
 <a href="https://github.com/ankit1222000/ankit1222000">
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit1222000&show_icons=true&theme=tokyonight" alt="Ankits's GitHub Stats" /> -->
