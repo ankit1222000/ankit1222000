@@ -1,6 +1,6 @@
 ![AB Git (2) (1)](https://user-images.githubusercontent.com/60085587/106122868-37cf3780-617f-11eb-943c-5acf9cc769da.png)
 
-# Hi There !  <img src="https://user-images.githubusercontent.com/60085587/106126179-11ab9680-6183-11eb-9059-8077bb11f3a9.gif" width="100">
+# Hi There !  <img src="https://user-images.githubusercontent.com/60085587/106126179-11ab9680-6183-11eb-9059-8077bb11f3a9.gif" width="150">
 
 
 <!--
