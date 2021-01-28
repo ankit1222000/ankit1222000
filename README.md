@@ -34,8 +34,6 @@ I am Ankit Bhatia a CSE Student from Ujjain, India passionate Software Developer
 <code><img src="https://user-images.githubusercontent.com/60085587/106137217-699cca00-6190-11eb-9c24-68e76ccb9376.png" width="40"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137225-6bff2400-6190-11eb-82ad-995de87a749b.png" width="40"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137230-6dc8e780-6190-11eb-96a6-e8b8a5d71d79.png" width="40"></code>
-
-
 <code><img src="https://user-images.githubusercontent.com/60085587/106137227-6c97ba80-6190-11eb-97c3-2c3b991b36df.png" width="40"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137220-6acdf700-6190-11eb-8786-47f53c73502a.png" width="40"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137218-6a356080-6190-11eb-9faa-e6d1d362235f.png" width="40"></code> 
