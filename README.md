@@ -64,10 +64,10 @@ I am Ankit Bhatia a CSE Student from Ujjain, India passionate Software Developer
 
 <a href="https://github.com/ankit1222000/ankit1222000">
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit1222000&show_icons=true&theme=tokyonight" alt="Ankits's GitHub Stats" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1222000&layout=compact&theme=tokyonight" alt=""Ankit's Languages Used Stats" width="410" />
+  <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1222000&layout=compact&theme=tokyonight" alt=""Ankit's Languages Used Stats" width="410" /></p>
 </a>
   
-### <p align="center">Profile Counts 👉 ![Visitor Count](https://profile-counter.glitch.me/{ankit1222000}/count.svg)</p>
+### <p align="center">Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/{ankit1222000}/count.svg)</p>
                                                                                                                                                     
                                                                                                                                                     
                                                                                                                                                   
