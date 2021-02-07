@@ -17,7 +17,7 @@ I am Ankit Bhatia a CSE Student from Ujjain, India passionate Software Developer
 ### 📫 How to reach me
 <code><a href="https://www.linkedin.com/in/ankit-bhatia12/"><img src="https://user-images.githubusercontent.com/60085587/106135088-766bee80-618d-11eb-9a86-cf9ca3ba565b.png" width="40"></a></code>
 <code><a href="ankit.bhatia1220@gmail.com"><img src="https://user-images.githubusercontent.com/60085587/106135086-753ac180-618d-11eb-800b-25533f481237.png" width="40"></a></code>
-<code><a href="https://bhatiaankit.in"><img src="https://user-images.githubusercontent.com/60085587/106135083-7370fe00-618d-11eb-898a-87f1d28fa8ed.png" width="40"></a></code>
+<code><a href="https://bhatiaankit.in" target="_blank"><img src="https://user-images.githubusercontent.com/60085587/106135083-7370fe00-618d-11eb-898a-87f1d28fa8ed.png" width="40"></a></code>
 <code><a href="https://www.instagram.com/ankit1222000/"><img src="https://user-images.githubusercontent.com/60085587/106135075-6fdd7700-618d-11eb-9158-7f47f322051c.png" width="40"></a></code>
 <code><a href="https://www.facebook.com/ankit.bhatia.524/"><img src="https://user-images.githubusercontent.com/60085587/106135069-6e13b380-618d-11eb-9ed8-30e6450e3766.png" width="40"></a></code>
 <code><a href="https://gitlab.com/ankit.bhatia1220"><img src="https://user-images.githubusercontent.com/60085587/106136936-01e67f00-6190-11eb-8d8b-19f7fdacd253.png" width="40"></a></code>
