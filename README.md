@@ -36,7 +36,7 @@ I am Ankit Bhatia a CSE Student from Ujjain, India passionate Software Developer
 <code><img src="https://user-images.githubusercontent.com/60085587/106137230-6dc8e780-6190-11eb-96a6-e8b8a5d71d79.png" width="40" title="Python"></code>
 <code><img src="https://user-images.githubusercontent.com/60085587/106137227-6c97ba80-6190-11eb-97c3-2c3b991b36df.png" width="40" title="MySQL"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137220-6acdf700-6190-11eb-8786-47f53c73502a.png" width="40" title="Data Structures"></code> 
-<code><img src="https://user-images.githubusercontent.com/60085587/149358891-2e60c64d-8376-461b-bc8f-d411301ecd64.png" width="40" title="Amazon Web Services"></code>
+<code><img src="https://user-images.githubusercontent.com/60085587/149359681-a9956f44-8c94-4440-a8c2-6efb9c396e81.png" width="80" title="Amazon Web Services"></code>
 <code><img src="https://user-images.githubusercontent.com/60085587/106137218-6a356080-6190-11eb-9faa-e6d1d362235f.png" width="40" title="C Programming"></code> 
 <code><img src="https://user-images.githubusercontent.com/60085587/106137222-6b668d80-6190-11eb-9a8e-afb462609d39.png" width="40" title="Git"></code>
 <code><img src="https://user-images.githubusercontent.com/60085587/106137236-6efa1480-6190-11eb-89a0-e0e18efc6ac1.png" width="40" title="Visual Code Studio"></code> 
